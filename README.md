@@ -49,6 +49,6 @@ I don't just write code; I build digital assets designed to automate workflows, 
 ### 📊 GitHub Stats
 
 <p align="center">
-  <img height="180" src="https://github-readme-stats-eight-theta.vercel.app/api?username=JonhSilverio&show_icons=true&theme=tokyonight&include_all_commits=true&hide_border=true" />
-  <img height="180" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=JonhSilverio&theme=tokyonight&layout=compact&langs_count=8&hide_border=true" />
+  <img height="400" width="400" src="https://github-readme-stats-eight-theta.vercel.app/api?username=JonhSilverio&show_icons=true&theme=tokyonight&include_all_commits=true&hide_border=true" />
+  <img height="400" width="400" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=JonhSilverio&theme=tokyonight&layout=compact&langs_count=8&hide_border=true" />
 </p>
