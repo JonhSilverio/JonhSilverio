@@ -52,13 +52,13 @@ I don't just write code; I build digital assets designed to automate workflows, 
   <img 
     align="left" 
     alt="GitHub Stats" 
-    height="190" 
-    src="https://github-readme-stats.vercel.app/api?username=JonhSilverio&show_icons=true&theme=tokyonight&include_all_commits=true&v=1" 
+    height="170" 
+    src="https://github-readme-streak-stats.herokuapp.com/?user=JonhSilverio&theme=tokyonight&hide_border=true" 
   />
   <img 
     align="left" 
     alt="Top Languages" 
-    height="190" 
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=JonhSilverio&theme=tokyonight&layout=compact&langs_count=9&v=1" 
+    height="170" 
+    src="https://github-stats-alpha.vercel.app/api/top-langs/?username=JonhSilverio&layout=compact&theme=tokyonight&langs_count=9" 
   />
 </p>
