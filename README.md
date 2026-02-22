@@ -9,34 +9,18 @@ I specialize in bridging the gap between complex technical challenges and scalab
 I don't just write code; I build digital assets designed to automate workflows, mitigate operational risks, and scale revenue. Whether you need a smart AI integration or an enterprise-grade web application, I deliver technology that works for your business. 🚀
 
 <p align="left">
-    <a href="#">
+    <a href="SEU_LINK_DO_INSTAGRAM_AQUI" target="_blank">
         <img 
-            alt="youtube subscribers" 
-            title="Subscribe to my channel" 
-            src="https://custom-icon-badges.demolab.com/youtube/channel/subscribers/YOUR_CHANNEL_ID?color=%23E05D44&label=Subscribe&logo=video&logoColor=white&style=for-the-badge&labelColor=CE4630"
+            alt="Instagram" 
+            src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"
         />
     </a>
-    <a href="#">
+    <a href="SEU_LINK_DO_WHATSAPP_AQUI" target="_blank">
         <img 
-            alt="youtube views" 
-            title="YouTube Views" 
-            src="https://custom-icon-badges.demolab.com/youtube/channel/views/YOUR_CHANNEL_ID?color=%23E1AD0E&logo=eye&logoColor=white&style=for-the-badge&labelColor=C79600"
+            alt="WhatsApp" 
+            src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white"
         />
     </a> 
-    <a href="#">
-        <img 
-            alt="Total stars" 
-            title="Total GitHub stars" 
-            src="https://custom-icon-badges.demolab.com/github/stars/YOUR_GITHUB_USERNAME?color=55960c&style=for-the-badge&labelColor=488207&logo=star&label=stars"
-        />
-    </a>
-    <a href="#">
-        <img 
-            alt="Followers" 
-            title="Follow me on GitHub" 
-            src="https://custom-icon-badges.demolab.com/github/followers/YOUR_GITHUB_USERNAME?color=236ad3&labelColor=1155ba&style=for-the-badge&logo=github&label=Followers&logoColor=white"
-        />
-    </a>
 </p>
 
 ---
@@ -174,7 +158,7 @@ I don't just write code; I build digital assets designed to automate workflows, 
       align="left" 
       alt="Top Languages" 
       height="200" 
-      src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_USERNAME&theme=tokyonight&layout=compact&custom_title=Top%20Languages&langs_count=9" 
+      src="https://github-readme-stats.vercel.app/api/top-langs/?username=JonhSilverio&theme=tokyonight&layout=compact&custom_title=Top%20Languages&langs_count=9" 
   />
 
 </p>
