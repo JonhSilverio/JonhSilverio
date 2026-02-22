@@ -49,7 +49,6 @@ I don't just write code; I build digital assets designed to automate workflows, 
 ### 📊 GitHub Stats
 
 <p align="center">
-  <img height="180" src="https://github-readme-stats.vercel.app/api?username=JonhSilverio&show_icons=true&theme=tokyonight&include_all_commits=true&v=8" alt="GitHub Stats" />
-  <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=JonhSilverio&theme=tokyonight&layout=compact&langs_count=8&v=8" alt="Top Languages" />
-</p>
+  <img height="180" src="https://github-readme-stats-eight-theta.vercel.app/api?username=JonhSilverio&show_icons=true&theme=tokyonight&include_all_commits=true" alt="Estatísticas detalhadas" />
+  <img height="180" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=JonhSilverio&theme=tokyonight&layout=compact&langs_count=8" alt="Minhas Linguagens" />
 </p>
