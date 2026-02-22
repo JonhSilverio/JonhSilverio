@@ -48,17 +48,8 @@ I don't just write code; I build digital assets designed to automate workflows, 
 
 ### 📊 GitHub Stats
 
-<p align="left">
-  <img 
-    align="left" 
-    alt="GitHub Stats" 
-    height="170" 
-    src="https://github-readme-streak-stats.herokuapp.com/?user=JonhSilverio&theme=tokyonight&hide_border=true" 
-  />
-  <img 
-    align="left" 
-    alt="Top Languages" 
-    height="170" 
-    src="https://github-stats-alpha.vercel.app/api/top-langs/?username=JonhSilverio&layout=compact&theme=tokyonight&langs_count=9" 
-  />
+<p align="center">
+  <img height="180" src="https://github-readme-stats.vercel.app/api?username=JonhSilverio&show_icons=true&theme=tokyonight&include_all_commits=true&v=8" alt="GitHub Stats" />
+  <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=JonhSilverio&theme=tokyonight&layout=compact&langs_count=8&v=8" alt="Top Languages" />
+</p>
 </p>
