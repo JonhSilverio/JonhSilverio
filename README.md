@@ -9,13 +9,13 @@ I specialize in bridging the gap between complex technical challenges and scalab
 I don't just write code; I build digital assets designed to automate workflows, mitigate operational risks, and scale revenue. Whether you need a smart AI integration or an enterprise-grade web application, I deliver technology that works for your business. 🚀
 
 <p align="left">
-    <a href="https://www.instagram.com/SEU_USUARIO" target="_blank">
+    <a href="https://www.instagram.com/SEU_USUARIO](https://www.instagram.com/morastack/?next=%2Freels%2FDPJ6yFbjqsm%2F" target="_blank">
         <img 
             alt="Instagram" 
             src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"
         />
     </a>
-    <a href="https://wa.me/55SEUTELEFONE" target="_blank">
+    <a href="https://wa.me/55SEUTELEFONE](https://wa.me/5511992377702" target="_blank">
         <img 
             alt="WhatsApp" 
             src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white"
